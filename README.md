@@ -17,7 +17,7 @@
 
           * Program 06: STEMMING NON-ENGLISH WORDS
 
-          * Program 07: 
+          * Program 07: LEMMATIZING WORDS USING WORDNET
 
           * Program 08: 
 
